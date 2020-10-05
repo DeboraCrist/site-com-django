@@ -1,0 +1,1 @@
+web: gunicorn isso.wsgi --log-file -
